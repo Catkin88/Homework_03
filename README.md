@@ -7,4 +7,4 @@ Screenshots:
 
 ![image](https://user-images.githubusercontent.com/61170475/77229619-93d73180-6b54-11ea-8fb6-07ea85e6dd6b.png)
 
-I decided to try to use the click function and a slider since I felt it was easier to use but I am still trying to problemsolve some of my code. Javascript can tricky clearly
+I decided to try to use the click function and a slider since I felt it was easier to use but I am still trying to problemsolve some of my code. Javascript can be tricky clearly
